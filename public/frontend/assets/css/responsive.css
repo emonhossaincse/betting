@@ -1,0 +1,179 @@
+@media (min-width: 1441px) and (max-width: 1800px) {
+
+
+}
+
+/* ================================
+ Desktop :1365
+================================--*/
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+
+.statements-hero {
+    padding-bottom: 300px;
+}
+
+
+
+
+
+
+
+	
+}	
+	
+/* ================================
+ Desktop :992
+================================--*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.pd-1 {
+    padding-left:90px;
+    padding-right: 90px;
+}
+.pd-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.statements-hero {
+    padding-bottom: 300px;
+}
+
+
+
+}
+/* ================================
+Tablet Screen : 768
+================================--*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+.pd-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.pd-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contact-sign-up {
+    top: -851%;
+}
+.match-bit-box {
+    bottom: -81%;
+}
+.amount-content {
+    margin-top: -10px;
+}
+.moon-icon {
+    margin-right: 5px;
+    margin-top: -7px;
+}
+.statements-hero {
+    padding-bottom: 200px;
+}
+.profile-box {
+   padding-bottom: 40px;
+}
+
+
+
+
+}
+
+
+/*================================
+Small Mobile : 320
+================================*/
+
+@media (max-width: 767px) {
+	
+#header {
+    display: none;
+}	
+.mobail-menu {
+    display: inherit;
+}
+.pd-1 {
+    padding-left: 0;
+    padding-right: 0;
+}
+.pd-2 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.contact-sign-up {
+   top: -633%;
+}
+.match-bit-box {
+    width: 298px;
+    right: 3px;
+    bottom: -84%;
+}
+.amount-s button {
+    right: 6%;
+}
+.match-bit-box.betting-content-toggle {
+    bottom: -4px;
+}
+.finance-form .singup-form input, .finance-form .singup-form select {
+    margin-bottom: 12px;
+}
+
+.finance-withdraw {
+   padding: 20px 0px;
+}
+.tab-item .nav-item button {
+    padding: 8px 7px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.statements-content-box {
+    overflow: scroll;
+}
+.statements-hero {
+    padding-bottom: 180px;
+}
+.sponsors-table-box {
+    overflow: scroll;
+}
+
+.profile-img {
+    text-align: center;
+}
+.flex.my-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-img img {
+    margin-bottom: 20px;
+}
+
+
+
+}
+/* ================================
+Large Mobile :480px. 
+================================--*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
